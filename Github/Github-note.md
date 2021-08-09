@@ -46,7 +46,7 @@
 
 
 
-![image-20210809143559587](C:\Users\sweet\AppData\Roaming\Typora\typora-user-images\image-20210809143559587.png)
+![image-20210809143559587](md-images/image-20210809143559587.png)
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-![image-20210809143611907](C:\Users\sweet\AppData\Roaming\Typora\typora-user-images\image-20210809143611907.png)
+![image-20210809143611907](md-images/image-20210809143611907.png)
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-![image-20210809144013021](C:\Users\sweet\AppData\Roaming\Typora\typora-user-images\image-20210809144013021.png)
+![image-20210809144013021](md-images/image-20210809144013021-16284966169481.png)
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-#### $git add <file>
+#### $git add < file >
 
 * working directory 상의 변경내용을 staging area에 추가하기 위해 사용
 
@@ -184,7 +184,7 @@ git commit -m "test02"
 
 
 
-![image-20210809150425695](md-images/image-20210809150425695-16284890707451-16284934925341.png)
+![](md-images/image-20210809150425695.png)
 
 
 
