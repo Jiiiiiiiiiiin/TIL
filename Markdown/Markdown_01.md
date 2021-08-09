@@ -8,7 +8,7 @@
 
 <br>
 
-### <li>1) 개요</li>
+### <li> 개요</li>
 
 <ul>
 
@@ -22,7 +22,7 @@
 
 <br> 
 
-### <li>2) 문법</li>
+### <li> 문법</li>
 
 <ul>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-![https://github.com/Jiiiiiiiiiiin](C:\Users\사진\진영디카\2017 유럽\IMG_8223.JPG) 
+![https://github.com/Jiiiiiiiiiiin](md-images/IMG_8223.JPG) 
 
 <br>
 
@@ -73,7 +73,7 @@ if True:
 
 <br>
 
-### <li>3) 마크다운 관련 자료</li>
+### <li>마크다운 관련 자료</li>
 
 <ul>
 
