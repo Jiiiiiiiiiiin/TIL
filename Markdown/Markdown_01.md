@@ -30,7 +30,7 @@
 
 <li> 코드블록: backtic 기호 3개를 활용하여 작성 (``` )  </li>
 
-<li> Link : [김진영의 Github](https://github.com/Jiiiiiiiiiiin) </li>
+<li> [김진영의 Github](https://github.com/Jiiiiiiiiiiin) </li>
 
 </ul>
 
@@ -79,7 +79,5 @@ if True:
 
 <li>  GitHub Flavored Markdown (https://github.github.com/gfm/) </li>
 <li>  Mastering Markdown (https://guides.github.com/features/mastering-markdown/)  </li>
-<li> Markdown Guide (https://www.markdownguide.org/ ) <li>
-
-</ol>
+<li> Markdown Guide (https://www.markdownguide.org/ ) <li></ol>
 
