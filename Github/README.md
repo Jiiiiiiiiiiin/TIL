@@ -4,7 +4,11 @@
 
 
 
-## [Github-note.md ](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Github/Github-note.md)
+### [Github-note.md ](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Github/Github-note.md)
 
 * 깃허브 이론과 실습
+
+### [Github-note2.md ](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Github/Github-note2.md)
+
+* 깃허브 명렁어 정리
 
