@@ -17,7 +17,7 @@
 
 ## 3. [Data Analysis](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data_Analysis)
 
-* [Day1 이론 정리](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data Analysis/Pandas_day1.md)
+* [Day1 이론 정리](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data_Analysis/Pandas_day1.md)
 
 * [01_Series](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/01_Series.ipynb)
 * [02_DataFrame](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/02_DataFrame.ipynb)
