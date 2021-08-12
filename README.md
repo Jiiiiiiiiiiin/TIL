@@ -17,8 +17,9 @@
 
 ## 3. [Data Analysis](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data_Analysis)
 
-* [Day1 이론 정리](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/Pandas_day1.md)
+[데이터 사이언스 스쿨](https://datascienceschool.net/intro.html) 기반 이론정리
 
+* [Day1 이론 정리](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/Pandas_day1.md)
 * [01_Series](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/01_Series.ipynb)
 * [02_DataFrame](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/02_DataFrame.ipynb)
 * [03_데이터입출력](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/03_데이터입출력.ipynb)
@@ -27,6 +28,5 @@
 * [06_인덱스조작](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/06_인덱스조작.ipynb)
 * [07_합성](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/07_합성.ipynb)
 * [07-1_판다스 복습](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/07-1_판다스_복습.ipynb)
-
 * [08_그룹분석](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/02.Pandas/08_그룹분석.ipynb)
 
