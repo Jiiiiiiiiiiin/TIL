@@ -1,6 +1,6 @@
 # Matplotlib - 시각화
 
-PC와 Jupyter notebook에 한글과 마이너스 표시가 되게 환경설정을 해주어야 한다.
+PC와 Jupyter notebook에 한글과 마이너스 제대로 표시되게 환경설정을 해주어야 한다.
 
 
 
@@ -10,7 +10,9 @@ PC와 Jupyter notebook에 한글과 마이너스 표시가 되게 환경설정�
 !rm ~/.cache/matplotlib -rf > /dev/null
 ```
 
-실행 후 런타임을 다시 시작해야 한다
+
+
+실행 후 반드시 런타임을 다시 시작해야 한다
 
 ```python
 import numpy as np
