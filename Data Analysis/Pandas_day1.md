@@ -2175,7 +2175,7 @@ df2.set_index("C2")
 
 
 
-#### (b) reset_index 
+##### (b) reset_index 
 
 : 기존의 행 인덱스를 제거하고 인덱스를 데이터 열로 추가
 
