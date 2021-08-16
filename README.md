@@ -51,7 +51,7 @@
 [Day3 공공 API 및 지도시각화](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/지도데이터_복습.ipynb)
 
 * [01_Folium](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/01_Folium.ipynb)
-* [02_도로명주소 _API](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/02_도로명주소_API.ipynb)
-* [03_카카오 _로컬](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/03_카카오_로컬.ipynb)
-* [04_단계구분도](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/04_단계구분도ipynb)
+* [02_도로명주소 API](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/02_도로명주소_API.ipynb)
+* [03_카카오 로컬](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/03_카카오_로컬.ipynb)
+* [04_단계구분도](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/04_단계구분도.ipynb)
 
