@@ -55,3 +55,13 @@
 * [03_카카오 로컬](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/03_카카오_로컬.ipynb)
 * [04_단계구분도](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/04.공공API_및_지도시각화/04_단계구분도.ipynb)
 
+
+
+[Day4_Crawling](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/크롤링_복습.ipynb)
+
+* [01_BeautifulSoup](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/01_BeautifulSoup.ipynb)
+
+* [02_GenieChart](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/02_GenieChart.ipynb)
+
+* [03_식신](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/03_식신.ipynb)
+
