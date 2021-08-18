@@ -57,11 +57,19 @@
 
 
 
-[Day4_Crawling](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/크롤링_복습.ipynb)
+[Day4_Crawling1](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/크롤링_복습_day1.ipynb)
 
 * [01_BeautifulSoup](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/01_BeautifulSoup.ipynb)
 
 * [02_GenieChart](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/02_GenieChart.ipynb)
 
 * [03_식신](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/03_식신.ipynb)
+
+
+
+[Day5_Crawling2](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/CrawlingReview_day2.ipynb)
+
+* [04_Google_Selenium](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/04_Google_Selenium.ipynb)
+
+* [05 유튜브 랭킹](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/05_유튜브_랭킹.ipynb)
 
