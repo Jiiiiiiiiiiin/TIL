@@ -69,7 +69,15 @@
 
 [Day5_Crawling2](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/CrawlingReview_day2.ipynb)
 
-* [04_Google_Selenium](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/04_Google_Selenium.ipynb)
+* [04&06_Google_Selenium](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/04_Google_Selenium.ipynb)
 
 * [05 유튜브 랭킹](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/05_유튜브_랭킹.ipynb)
+
+
+
+[Day6_Crawling3](https://github.com/Jiiiiiiiiiiin/TIL/tree/master/Data%20Analysis/CrawlingReview_day3.ipynb)
+
+* [10_제주명소 인스타그램](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/10_제주명소_인스타그램.ipynb)
+* [11_파일합치기](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/11_파일합치기.ipynb)
+* [12_워드클라우드](https://github.com/Jiiiiiiiiiiin/DataAnalysis_Training/tree/main/05.Crawling/12_워드클라우드.ipynb)
 
